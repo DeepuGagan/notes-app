@@ -9,3 +9,7 @@ This is a simple and easy to use application that allows you to add and remove n
 * React JS for building the UI
 * SCSS / CSS for styling components
 
+ 
+## ©️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
